@@ -13,3 +13,7 @@ Here are some key considerations I made when selecting to develop this game on R
 - There is no cost for hosting servers on Roblox
 - Advertising can be performed directly on the Roblox website
 - Existing similar games like Site 74 have been incredibly financially successful
+
+## Snippets
+Feel free to peruse the various snippets found in the [Snippets folder](https://github.com/StevieGoodman/site_74/tree/release/snippets).
+Please bear in mind that Roblox uses an extension to Lua called [Luau](https://luau-lang.org), but the files are in Lua because Luau files do not support syntax highlighting.
