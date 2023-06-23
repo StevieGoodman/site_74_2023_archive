@@ -16,4 +16,4 @@ Here are some key considerations I made when selecting to develop this game on R
 
 ## Snippets
 Feel free to peruse the various snippets found in the [Snippets folder](https://github.com/StevieGoodman/site_74/tree/release/snippets).
-Please bear in mind that Roblox uses an extension to Lua called [Luau](https://luau-lang.org), but the files are in Lua because Luau files do not support syntax highlighting.
+Please bear in mind that Roblox uses an extension to Lua called [Luau](https://luau-lang.org). The snippets are written in Luau but stored in Lua files because Luau files do not have syntax highlighting support.
